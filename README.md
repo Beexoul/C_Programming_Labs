@@ -69,7 +69,5 @@ The C programming language was developed in 1972 by **Dennis Ritchie** at Bell L
 ## Conclusion
 Through hands-on lab exercises, we explored the fundamentals of C programming, including syntax, variables, constants, and functions. These exercises demonstrated the versatility of C for solving real-world problems while strengthening our programming skills.
 
----
-```
 
 Feel free to modify or expand on this depending on your requirements!
